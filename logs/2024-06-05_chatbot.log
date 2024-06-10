@@ -1,0 +1,159 @@
+2024-06-05 09:13:25,257 - ----------------NEW_SESSION--------------
+2024-06-05 09:13:25,257 - User: 0506
+2024-06-05 09:13:25,257 - InputText: Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi
+2024-06-05 09:13:26,260 - ------------llm------------
+2024-06-05 09:13:26,260 - User: Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi
+2024-06-05 09:13:27,722 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:13:28,752 - HEAD https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.020s]
+2024-06-05 09:13:28,977 - POST https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.225s]
+2024-06-05 09:13:29,206 - POST https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.228s]
+2024-06-05 09:13:30,638 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:13:30,640 - Vcc_bot: Support: Chào bạn! Bạn quan tâm đến sản phẩm điều hòa và thiết bị wifi à? Tôi có thể giúp gì cho bạn?
+2024-06-05 09:14:06,394 - ----------------NEW_SESSION--------------
+2024-06-05 09:14:06,394 - User: 0506
+2024-06-05 09:14:06,394 - InputText: Tou muon mua DIU hoa gia 10tr
+2024-06-05 09:14:06,461 - ------------llm------------
+2024-06-05 09:14:06,462 - User: Tou muon mua DIU hoa gia 10tr
+2024-06-05 09:14:08,296 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:14:08,966 - HEAD https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.660s]
+2024-06-05 09:14:09,185 - POST https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.218s]
+2024-06-05 09:14:11,243 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:14:11,246 - Vcc_bot: AI: Support: Bạn quan tâm đến sản phẩm điều hòa với giá khoảng 10 triệu đúng không? Tôi có thể giới thiệu cho bạn một số sản phẩm phù hợp với ngân sách của bạn.
+2024-06-05 16:37:40,159 - ----------------NEW_SESSION--------------
+2024-06-05 16:37:40,170 - User: 0506
+2024-06-05 16:37:40,170 - InputText: san pham tren
+2024-06-05 16:38:06,574 - ----------------NEW_SESSION--------------
+2024-06-05 16:38:06,574 - User: 0506
+2024-06-05 16:38:06,575 - InputText: bảo hành
+2024-06-05 16:38:07,693 - Vcc_bot: Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
+                1. Chính sách bảo hành 1 đổi 1
+                    1.1. Thời gian áp dụng
+                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+                    1.2. Điều kiện:
+                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Không áp dụng hoàn tiền sản phẩm
+                2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+                    2.1. Thời gian
+                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    2.2. Phạm vi
+                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).
+                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.
+                    2.3. Điều kiện được bảo hành
+                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
+                    phẩm bảo hành do TT. GP&DVKT ban hành.
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+2024-06-05 16:38:15,425 - ----------------NEW_SESSION--------------
+2024-06-05 16:38:15,425 - User: 0506
+2024-06-05 16:38:15,425 - InputText: sản phẩm trên
+2024-06-05 16:38:15,518 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-05 16:38:26,576 - ----------------NEW_SESSION--------------
+2024-06-05 16:38:26,576 - User: 0506
+2024-06-05 16:38:26,576 - InputText: san pham tren
+2024-06-05 16:38:26,671 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-05 16:38:47,537 - ----------------NEW_SESSION--------------
+2024-06-05 16:38:47,537 - User: 0506
+2024-06-05 16:38:47,537 - InputText: giá trên
+2024-06-05 16:38:47,622 - ------------llm------------
+2024-06-05 16:38:47,622 - User: giá trên
+2024-06-05 16:38:48,734 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:39:02,010 - ----------------NEW_SESSION--------------
+2024-06-05 16:39:02,010 - User: 0506
+2024-06-05 16:39:02,010 - InputText: sản phẩm này
+2024-06-05 16:39:02,085 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-05 16:39:10,241 - ----------------NEW_SESSION--------------
+2024-06-05 16:39:10,241 - User: 0506
+2024-06-05 16:39:10,241 - InputText: sản phẩm số 1
+2024-06-05 16:39:10,329 - Vcc_bot: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
+2024-06-05 16:39:23,536 - ----------------NEW_SESSION--------------
+2024-06-05 16:39:23,536 - User: 0506
+2024-06-05 16:39:23,536 - InputText: giá của 2 sản phẩm trên
+2024-06-05 16:39:23,669 - ------------llm------------
+2024-06-05 16:39:23,669 - User: giá của 2 sản phẩm trên
+2024-06-05 16:39:25,493 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:39:26,437 - HEAD https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.930s]
+2024-06-05 16:39:51,609 - ----------------NEW_SESSION--------------
+2024-06-05 16:39:51,609 - User: 0506
+2024-06-05 16:39:51,609 - InputText: điều hòa trên
+2024-06-05 16:39:51,695 - ------------llm------------
+2024-06-05 16:39:51,695 - User: điều hòa trên
+2024-06-05 16:39:53,197 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:39:54,022 - HEAD https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.804s]
+2024-06-05 16:39:54,245 - POST https://0506c08a508d490ab5c45d61d8219a0e.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.223s]
+2024-06-05 16:40:00,517 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:40:00,521 - Vcc_bot: AI: Dưới đây là thông tin về sản phẩm điều hòa mà chúng tôi đề xuất cho bạn:
+
+Sản phẩm 1:
+- Tên sản phẩm: Điều hòa MDV - Inverter 9000 BTU (ID: 107)
+- Thông số kỹ thuật:
+  - Nguồn điện: 220-240V
+  - Công suất: 9500 Btu/h
+  - Công suất tiêu thụ: 745 W
+  - Cường độ dòng điện: 3.4 A
+  - ERR: 3.54 W/W
+  - Inverter: Có
+  - Kích thước máy trong ( DxRxC): 726x210x291 (mm)
+  - Khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg
+  - Kích thước máy ngoài (DxRxC): 835x300x540 (mm)
+  - Khối lượng thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+  - Loại gas/ khối lượng nạp: R32/0.38
+  - Áp suất thiết kế: 4.3/1.7 Mpa
+  - Chiều dài đường ống tối đa: 25m
+  - Chênh lệch độ cao tối đa: 10m
+  - Phạm vi lành lạnh hiệu quả: 12~18 m2
+  - Hiệu suất năng lượng: 4.48 CSPF
+  - Bảo hành 3 năm cho sản phẩm
+  - Bảo hành 5 năm cho máy nén
+  - Suất xứ: Thái Lan
+  - Giá tiền: 6,014,184 VND
+
+Bạn có cần thêm thông tin gì khác không?
+2024-06-05 16:49:26,543 - ----------------NEW_SESSION--------------
+2024-06-05 16:49:26,544 - User: 0506
+2024-06-05 16:49:26,544 - InputText: sản phẩm này
+2024-06-05 16:49:26,703 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-05 16:49:36,841 - ----------------NEW_SESSION--------------
+2024-06-05 16:49:36,841 - User: 0506
+2024-06-05 16:49:36,841 - InputText: sản phẩm
+2024-06-05 16:49:36,944 - Vcc_bot: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
+2024-06-05 16:49:58,129 - ----------------NEW_SESSION--------------
+2024-06-05 16:49:58,129 - User: 0506
+2024-06-05 16:49:58,129 - InputText: giá trên
+2024-06-05 16:49:58,394 - ------------llm------------
+2024-06-05 16:49:58,394 - User: giá trên
+2024-06-05 16:49:59,510 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:50:14,450 - ----------------NEW_SESSION--------------
+2024-06-05 16:50:14,450 - User: 0506
+2024-06-05 16:50:14,450 - InputText: giá trên
+2024-06-05 16:50:14,536 - ------------llm------------
+2024-06-05 16:50:14,536 - User: giá trên
+2024-06-05 16:50:15,571 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 16:50:43,353 - ----------------NEW_SESSION--------------
+2024-06-05 16:50:43,353 - User: 0506
+2024-06-05 16:50:43,353 - InputText: sản phẩm ben trên
+2024-06-05 16:50:43,475 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
